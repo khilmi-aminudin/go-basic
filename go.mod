@@ -1,3 +1,3 @@
-module example.com/hello
+module khilmi-aminudin/go-basic
 
 go 1.16
